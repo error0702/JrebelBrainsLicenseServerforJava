@@ -22,13 +22,6 @@ typora-copy-images-to: img
 
 1. 准备工作，你需要一个后台一直运行的服务，可以在阿里云购买一台轻量级应用服务器，并且安装好java环境；
 
-   **[点击这里可以迅速获得优惠券](https://www.aliyun.com/minisite/goods?userCode=eogi8dax)。**
-
-https://www.aliyun.com/minisite/goods?userCode=eogi8dax
-
-![1577170416862](img/1577170416862.png)
-
-
 
 2. 克隆本项目，打成jar包，会生成jar包，或者到这里[直接下载]()也行（已经打好包了）
 
